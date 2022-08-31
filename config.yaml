@@ -5,5 +5,5 @@ server:
   port:8080
   host:localhost
 email:
-  user:
-  password:
+  user:teste@teste.com  
+  password:123456
