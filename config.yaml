@@ -1,5 +1,9 @@
-database 
+database: 
   user:Corturato
   password:123
-server
+server:
   port:8080
+  host:localhost
+email:
+  user:
+  password:
